@@ -1,0 +1,3 @@
+interface SentenceItem {
+    String stringify();
+}
